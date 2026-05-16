@@ -2,7 +2,7 @@
 
 - 🎓 A Computer Engineering Undergraduate Student (Sophomore) & Open Source enthusiast.
 - 💻 Currently focusing on Go backend development, with hands-on experience in building AI Agents.
-- ✨ - ✨ Want to be an interesting person.
+- ✨ Want to be an interesting person.
 
 ---
 
